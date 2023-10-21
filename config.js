@@ -13,8 +13,8 @@ import { en, es, id, ar, pt } from './lib/idiomas/total-idiomas.js'
 // EN ➜ Add the Bot number as priority first
 // EN ➜ If you want to receive reports you must use the three parameters (Number, name and true)
 global.owner = [
-['573026191480', '𝙂𝙖𝙩𝙖𝘽𝙤𝙩𝙇𝙞𝙩𝙚-𝙈𝘿 🌻🐈', true],
-['5492266466080', '𝙊𝙬𝙣𝙚𝙧 💖🐈', true], 
+['2612083971', '𝙂𝙖𝙩𝙖𝘽𝙤𝙩𝙇𝙞𝙩𝙚-𝙈𝘿 🌻🐈', true],
+['2615968203', '𝙊𝙬𝙣𝙚𝙧 💖🐈', true], 
 ['593968585383'], ['5492266466080'], ['5217294888993'], ['5492266613038'], ['51948705559']]
 
 global.mods = [] 
@@ -27,8 +27,8 @@ global.prems = []
 global.lenguajeGB = es  //<-- Predeterminado en idioma Español 
 
 // confirmación en el ajuste de idioma y owner en la consola
-global.languageLen = ""
-global.registerNumber = ""
+global.languageLen = "es"
+global.registerNumber = "es"
 
 // ES ➜ Consigue Apikey en https://platform.openai.com/account/api-keys
 global.openai_key = 'sk-0'
